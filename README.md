@@ -20,7 +20,7 @@ I'm a passionate Software Developer dedicated to crafting efficient and innovati
 
 Here are a few projects I've worked on recently:
 
-- [Les Recettes Wilds] (https://github.com/maximmft/Les-recettes-Wild): Les Recettes Wild is a dynamic recipe website built with HTML, CSS, and JavaScript. It features a collection of delicious recipes.
+- [Les Recettes Wilds](https://github.com/maximmft/Les-recettes-Wild): Les Recettes Wild is a dynamic recipe website built with HTML, CSS, and JavaScript. It features a collection of delicious recipes.
 - [BrainBox](https://github.com/maximmft/JS-Paris-BrainWaves-P2-BrainBox): This is a quiz application using React(Javascript, HTML, CSS) and an quizz API.
 - [Gems](https://github.com/ton-nom-utilisateur/project-three): First full stack project, this project is a premium marketplace website designed for private individuals to buy and sell luxury products. Built using React (HTML, CSS, and JavaScript) and Express. In progress.
 
