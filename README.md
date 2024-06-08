@@ -41,4 +41,4 @@ I love to spend my free time exploring the world 🌎, eating vietnamese food �
 
 ---
 
-Thanks for visiting my profile! 😊
+Thanks for visiting my profile!
