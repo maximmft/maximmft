@@ -32,12 +32,4 @@ Here are a few projects I've worked on recently:
 - **Email:** [mmaufront@gmail.com](mailto:mmaufront@gmail.com)
 - **LinkedIn:** [Maxime Maufront](https://www.linkedin.com/in/maxime-maufront-2b8850194/)
 
-Feel free to reach out if you want to collaborate on a project, discuss tech, or just say hello!
-
-## 🎨 Fun Fact
-
-I love to spend my free time exploring the world 🌎, eating vietnamese food 🍜 and getting whales tattoos 🐋 ! (so far I have 9).
-
----
-
 Thanks for visiting my profile!
